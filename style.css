@@ -1,0 +1,21 @@
+
+     h1{
+         color: blue;
+     }
+.header{
+    display: flex ;
+    background-color: rgb(216, 42, 207);
+    justify-content:space-between ;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
